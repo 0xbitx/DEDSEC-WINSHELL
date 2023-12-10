@@ -12,8 +12,9 @@ Dedsec-winshell is an advanced, fully interactive reverse shell designed for Win
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-WINSHELL.git
     * cd DEDSEC-WINSHELL
-    * sudo pip3 install pystyle tabulate
+    * sudo pip3 install pystyle
     * sudo apt install mingw-w64 nim
+    * chmod +x dedsec_winshell
     * sudo ./dedsec_winshell
 
 ### TESTED ON FOLLOWING
